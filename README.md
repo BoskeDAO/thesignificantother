@@ -3,7 +3,11 @@
 the significant other (TSO)
 
 TSO es una DAO que crea y monetiza arte enfocado en colaboraciones de IA con artistas invitados. 
-visuales nuevas, VR, nuevos medios, metaverses. 
+visuales nuevas, VR, nuevos medios, instalaciones en metaverses. 
+
+hay mercado: 
+https://foundation.app/@pixlpa/active-gestures-1-9
+https://foundation.app/@pixlpa/stitched-smeared-even-against-xo-vol-2-2165
 
 Las obras son NFTs con dinámicas interesantes, variables del mundo real o virtual.
 

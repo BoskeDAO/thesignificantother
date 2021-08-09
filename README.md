@@ -26,7 +26,7 @@ cómo creamos:
 usamos votación para aceptar distintas tareas y votar por la mejor soluciòn (gitcoin?)
 los token de gobernanza son TSO, son como acciones
 1 TSO es 1 voto, quadratic o conviction
-Lanzamos 10 TSO por mes, hasta llegar a 100
+Lanzamos 10 TSO por mes, hasta llegar a 100. por recomendación y votación... cada grupo labura independiente hasta terminar la obra.
 Por ahora ese es el nùmero máximo, luego quemamos 5 TSO por mes, hasta llegar a 10. Ese board luego relanza la economía con otra lógica. 
 1 TSO es 1% de treasury: NFTs, inversiones, encargos, educación, regalías
 
@@ -85,8 +85,24 @@ tecnología: un arquitecto, IA, dev, NFT, smart contract, audio engineer, comput
 
 manager: si la obra no la rompe, queda fuera del cargo. más vale que sea alguien poronga. festivales, marketplaces, NFTs, coleccionistas, donantes, lo que sea
 
------
 
+Ejemplo: 
+
+sean A, ..., E participantes de TSO.
+
+A y B proponen ideas por separado. Se vota para elegir, combinar, descartar, etc
+
+C y A: aportan materiales aprobados por votación
+
+D es el arquitecto artístico y técnico
+
+E mezcla y masteriza
+
+A y D monetizan
+
+
+-----
+MAS: 
 la obra terminada sólo se vende en el metaverse, allí son las auctions. se puede poner como instalación en los edificios de los ciudadanos. la obra debería permitir eso. 
 
 o sea, tiene una especificación para el metaverse y si la querés sacar al mundo físico, te ayudamos a adaptarla

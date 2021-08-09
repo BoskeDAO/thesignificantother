@@ -2,23 +2,24 @@
 
 the significant other (TSO)
 
-TSO es una DAO que crea y monetiza arte enfocado en colaboraciones de IA con músicos de alto perfil. Y con visuales nuevas, VR, nuevos medios, metaverses. 
+TSO es una DAO que crea y monetiza arte enfocado en colaboraciones de IA con artistas invitados. 
+visuales nuevas, VR, nuevos medios, metaverses. 
 
-Las obras son NFTs con dinámicas interesantes, variables del mundo real.
+Las obras son NFTs con dinámicas interesantes, variables del mundo real o virtual.
 
 Los participantes ganan tokens de gobernanza, pero se pueden vender.
-La DAO monetiza NFTs y otras fuentes de ingreso..,  los coloca en mercado internacional… abierto a todo el mundo… 
+La DAO monetiza NFTs y otras fuentes de ingreso
 
-testeo rápido, un token de gobernanza y una plataforma de NFT… las obras son audiovisuales… asi que plataforma con video. tambièn puede haber laburos a pedido.
+Testeo rápido: un token de gobernanza y una plataforma de NFT… las obras son audiovisuales… plataforma con video. tambièn puede haber encargos.
 
-los NFTs tienen utilidad…  y se puede comprar por anticipado, para financiar el trabajo de los pibes… 
+los NFTs tienen utilidad…  y se puede comprar por anticipado, para financiar el trabajo
 
 
 -----------------
 
 cómo creamos: 
 
-usamos votación para aceptar distintas tareas y votar por la mejor soluciòn
+usamos votación para aceptar distintas tareas y votar por la mejor soluciòn (gitcoin?)
 los token de gobernanza son TSO, son como acciones
 1 TSO es 1 voto, quadratic o conviction
 Lanzamos 10 TSO por mes, hasta llegar a 100
@@ -26,7 +27,7 @@ Por ahora ese es el nùmero máximo, luego quemamos 5 TSO por mes, hasta llegar 
 1 TSO es 1% de treasury: NFTs, inversiones, encargos, educación, regalías
 
 quemamos los 5 TSO que menos score cred tengan, sin excepción
-hay una instancia de apelación con kleros
+hay una instancia de apelación ?
 
 las tareas son: 
 
@@ -46,11 +47,11 @@ manager
 1 tarea completa se paga con 1 TSO
 1 tarea incompleta o no aprobada se guarda para una segunda instancia
 1 contribución excepcional se paga con 5 TSO y DAIs
-1 partner fuerte, negocio o inverisón se paga con 5 TSO y la ganancia estimada se cuenta para participación en venten capital
+1 partner fuerte, negocio o inverisón se paga con 5 TSO y la ganancia estimada se cuenta para participación en un fondo
 
 ---- 
 
-votación: 
+ejemplos de votación: 
 
 propuesta-idea:  usamos tal red neuronal, con material de tal artista, en tal formato y la monetizamos de tal forma, apuntando a tal mercado o festival
 
